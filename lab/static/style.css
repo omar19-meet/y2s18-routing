@@ -1,3 +1,10 @@
 body {
     background: #fcfcfc;
 }
+#header_div{
+    height: 40px;
+    width: 100%;
+    background:lightsalmon;
+    text-shadow: 2px 2px palegoldenrod;
+
+}
